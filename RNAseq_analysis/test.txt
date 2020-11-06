@@ -1,0 +1,2 @@
+OBG0044-1 /scratch/tphung3/SexInference/RNAseq/placenta_batch_1/OBG0044-1/quant.sf
+OBG0044-2 /scratch/tphung3/SexInference/RNAseq/placenta_batch_1/OBG0044-2/quant.sf
